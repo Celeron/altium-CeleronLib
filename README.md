@@ -1,1 +1,1 @@
-# altium-CeleronLib
+# "CeleronLib" component library for Altium Designer.
