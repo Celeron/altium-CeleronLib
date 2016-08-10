@@ -1,10 +1,12 @@
-# "CeleronLib" component library for Altium Designer
+==================================================
+"CeleronLib" component library for Altium Designer
+==================================================
 
 The library have gathered and refined by Celeron (author).
 
 
-Features:
----------
+Features
+--------
 
 * Polymorphic component approach (not suggested for large corporations, but useful for most hobbyists): "One component" in library -> adjusted in scheme by "Value" parameter -> acquired particular footprint...
 
@@ -18,3 +20,27 @@ Features:
 
 
 *Disclamer: This library is "young and growing". At the moment, it provides reliable foundation of "footprint set", "component parameters" and "general conception". It would be enlarged by new components with the lapse of time...*
+
+
+Thanks to
+---------
+
+* "Altium `CERN <http://home.web.cern.ch/>`_ Library" (`Torrent1 <http://rutracker.org/forum/viewtopic.php?t=4835222>`_)
+
+* `"Altium Unified Components" <http://techdocs.altium.com/display/ADOH/Download+Libraries>`_ (AKA `"Altium Vault" repositary <https://designcontent.live.altium.com/UnifiedComponents>`_) (`Torrent2 <http://rutracker.org/forum/viewtopic.php?t=4724361>`_)
+
+* Altium Standard Libraries PCB (`github.com <https://github.com/uscauv-legacy/old-uscauv-pcb/tree/master/altium/standard_libraries/Pcb>`_)
+
+- `Sergeev Altium IntLib [27.03.2014] <http://chyvack.ru/biblioteka-dlya-altium-designer-za-2014.html>`_
+
+- Footprint's for Altium Designer (`altium123.narod.ru <http://altium123.narod.ru/footprint-altium.html>`_)
+
+* 3D Models Repositories:
+
+  - `pcbworks.altervista.org <http://pcbworks.altervista.org/dwnfree_i.htm>`_
+  - `3dcontentcentral.com <http://www.3dcontentcentral.com/default.aspx>`_
+  - `cad-design.ru <http://cad-design.ru/downloads.html>`_
+  - `pcb-3d.com <http://www.pcb-3d.com/membership_type/free>`_
+  - `egorz.ru <http://www.egorz.ru/pcb-acad3d.shtml>`_
+  - `kazus.ru/forums <http://kazus.ru/forums/showthread.php?t=19361>`_
+
