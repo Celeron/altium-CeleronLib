@@ -31,9 +31,9 @@ Thanks to
 
 * Altium Standard Libraries PCB ([github.com] (<https://github.com/uscauv-legacy/old-uscauv-pcb/tree/master/altium/standard_libraries/Pcb>))
 
-+ [Sergeev Altium IntLib [27.03.2014]] (<http://chyvack.ru/biblioteka-dlya-altium-designer-za-2014.html>)
+* [Sergeev Altium IntLib [27.03.2014]] (<http://chyvack.ru/biblioteka-dlya-altium-designer-za-2014.html>)
 
-+ Footprint's for Altium Designer ([altium123.narod.ru] (<http://altium123.narod.ru/footprint-altium.html>))
+* Footprint's for Altium Designer ([altium123.narod.ru] (<http://altium123.narod.ru/footprint-altium.html>))
 
 * 3D Models Repositories:
 
