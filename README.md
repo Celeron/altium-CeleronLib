@@ -25,15 +25,15 @@ Features
 Thanks to
 ---------
 
-* "Altium CERN Library" <http://home.web.cern.ch/> (Torrent <http://rutracker.org/forum/viewtopic.php?t=4835222>)
+* "Altium CERN Library" (Torrent <http://rutracker.org/forum/viewtopic.php?t=4835222>)
 
 * "Altium Unified Components" <http://techdocs.altium.com/display/ADOH/Download+Libraries> (AKA "Altium Vault" repositary <https://designcontent.live.altium.com/UnifiedComponents>) (Torrent <http://rutracker.org/forum/viewtopic.php?t=4724361>)
 
-* Altium Standard Libraries PCB (github.com <https://github.com/uscauv-legacy/old-uscauv-pcb/tree/master/altium/standard_libraries/Pcb>)
+* Altium Standard Libraries PCB (<https://github.com/uscauv-legacy/old-uscauv-pcb/tree/master/altium/standard_libraries/Pcb>)
 
-- Sergeev Altium IntLib [27.03.2014] <http://chyvack.ru/biblioteka-dlya-altium-designer-za-2014.html>
+- Sergeev Altium IntLib [27.03.2014] (<http://chyvack.ru/biblioteka-dlya-altium-designer-za-2014.html>)
 
-- Footprint's for Altium Designer (altium123.narod.ru <http://altium123.narod.ru/footprint-altium.html>)
+- Footprint's for Altium Designer (<http://altium123.narod.ru/footprint-altium.html>)
 
 * 3D Models Repositories:
 
