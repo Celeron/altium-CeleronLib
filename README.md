@@ -25,22 +25,22 @@ Features
 Thanks to
 ---------
 
-* "Altium `CERN <http://home.web.cern.ch/>`_ Library" (`Torrent1 <http://rutracker.org/forum/viewtopic.php?t=4835222>`_)
+* "Altium CERN Library" <http://home.web.cern.ch/> (Torrent <http://rutracker.org/forum/viewtopic.php?t=4835222>)
 
-* `"Altium Unified Components" <http://techdocs.altium.com/display/ADOH/Download+Libraries>`_ (AKA `"Altium Vault" repositary <https://designcontent.live.altium.com/UnifiedComponents>`_) (`Torrent2 <http://rutracker.org/forum/viewtopic.php?t=4724361>`_)
+* "Altium Unified Components" <http://techdocs.altium.com/display/ADOH/Download+Libraries> (AKA "Altium Vault" repositary <https://designcontent.live.altium.com/UnifiedComponents>) (Torrent <http://rutracker.org/forum/viewtopic.php?t=4724361>)
 
-* Altium Standard Libraries PCB (`github.com <https://github.com/uscauv-legacy/old-uscauv-pcb/tree/master/altium/standard_libraries/Pcb>`_)
+* Altium Standard Libraries PCB (github.com <https://github.com/uscauv-legacy/old-uscauv-pcb/tree/master/altium/standard_libraries/Pcb>)
 
-- `Sergeev Altium IntLib [27.03.2014] <http://chyvack.ru/biblioteka-dlya-altium-designer-za-2014.html>`_
+- Sergeev Altium IntLib [27.03.2014] <http://chyvack.ru/biblioteka-dlya-altium-designer-za-2014.html>
 
-- Footprint's for Altium Designer (`altium123.narod.ru <http://altium123.narod.ru/footprint-altium.html>`_)
+- Footprint's for Altium Designer (altium123.narod.ru <http://altium123.narod.ru/footprint-altium.html>)
 
 * 3D Models Repositories:
 
-  - `pcbworks.altervista.org <http://pcbworks.altervista.org/dwnfree_i.htm>`_
-  - `3dcontentcentral.com <http://www.3dcontentcentral.com/default.aspx>`_
-  - `cad-design.ru <http://cad-design.ru/downloads.html>`_
-  - `pcb-3d.com <http://www.pcb-3d.com/membership_type/free>`_
-  - `egorz.ru <http://www.egorz.ru/pcb-acad3d.shtml>`_
-  - `kazus.ru/forums <http://kazus.ru/forums/showthread.php?t=19361>`_
+  - pcbworks.altervista.org <http://pcbworks.altervista.org/dwnfree_i.htm>
+  - 3dcontentcentral.com <http://www.3dcontentcentral.com/default.aspx>
+  - cad-design.ru <http://cad-design.ru/downloads.html>
+  - pcb-3d.com <http://www.pcb-3d.com/membership_type/free>
+  - egorz.ru <http://www.egorz.ru/pcb-acad3d.shtml>
+  - kazus.ru/forums <http://kazus.ru/forums/showthread.php?t=19361>
 
