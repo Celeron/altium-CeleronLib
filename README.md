@@ -6,11 +6,11 @@ The library have gathered and refined by Celeron (author).
 Features:
 ---------
 
+* Polymorphic component approach (not suggested for large corporations, but useful for most hobbyists): "One component" in library -> adjusted in scheme by "Value" parameter -> acquired particular footprint...
+
 * Insightful component parameters allow generate fine BOMs. Consider the "Sample Project" inside...
 
 * "Assembly drawings" are supported, since a special layer ("Top Assy") have provided in library footprints for addition assembly information.
-
-* Polymorphic component approach (not suggested for large corporations, but useful for most hobbyists): "One component" in library -> adjusted by "Value" parameter -> acquired particular footprint...
 
 * "CeleronLib" mechanic layers have planned closely to famous "Altium CERN Library" and "Altium Unified Components" (later "Altium Vault" repositary) to simplify Footprint importing and combination.
 
