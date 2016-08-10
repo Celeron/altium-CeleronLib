@@ -25,7 +25,7 @@ Features
 Thanks to
 ---------
 
-* "Altium CERN Library" ([Torrent] <http://rutracker.org/forum/viewtopic.php?t=4835222>)
+* "Altium CERN Library" ([Torrent] (<http://rutracker.org/forum/viewtopic.php?t=4835222>))
 
 * "Altium Unified Components" <http://techdocs.altium.com/display/ADOH/Download+Libraries> (AKA "Altium Vault" repositary <https://designcontent.live.altium.com/UnifiedComponents>) (Torrent <http://rutracker.org/forum/viewtopic.php?t=4724361>)
 
